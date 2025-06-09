@@ -1,0 +1,1 @@
+Linguagem Pawn(C) + de 10k linhas escritas manualmente quando nem existia IA ainda.
